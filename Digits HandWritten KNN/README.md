@@ -63,5 +63,3 @@
   -   Đối với các dữ liệu lớn, thời gian xử lý của KNN trong thư viện này cũng rất lớn: Khi chạy code, KNN sẽ tính khoảng cách tới từng Data Point rồi đi so sánh, thời gian sẽ còn lâu hơn nếu K lớn 
   
 
-  #### 4. Hướng phát triển
-  ##### 4.1
